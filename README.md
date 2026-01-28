@@ -31,5 +31,3 @@ https://jsonplaceholder.typicode.com
  Purpose
 This project was developed to understand REST API integration in Flutter and to practice clean code structure.
 
-Author
-Built for learning and academic purposes.
